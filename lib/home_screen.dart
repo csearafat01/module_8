@@ -43,7 +43,7 @@ class HomeScreen extends StatelessWidget {
                             alignment: WrapAlignment.center,
                             crossAxisAlignment: WrapCrossAlignment.start,
                             children: [
-                              Text('MediaQuery,Wrap,LayoutBuilder and WidgettBuilder'),
+                              Text('MediaQuery,Wrap,LayoutBuilder and WidgetBuilder'),
                               Text('skdjfksjfkljasdkljf dsfk jksdjf kjsdkf jkfk ksdlfj klas'),
                               Text('skdjfksjfklj'),
                               Text('skdjfksjfkljasdkljf dsfk jksdjf kjsdkf jkfk ksdlfj klas'),
